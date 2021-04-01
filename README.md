@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Tri%20Sutrisno-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tri-sutrisno-700287181/)](https://www.linkedin.com/in/tri-sutrisno-700287181/)
+
+### Hi there 👋 ###
+My name is Tri,
+Frontend developer working with Vue.js
 
 <!--
 **trikarai/trikarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
