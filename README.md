@@ -1,5 +1,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Tri%20Sutrisno-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tri-sutrisno-700287181/)](https://www.linkedin.com/in/tri-sutrisno-700287181/)
 
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=trikarai&color=red">
+</p>
+
 ### Hi there 👋 ###
 My name is Tri,
 Frontend developer working with Vue.js
