@@ -8,7 +8,9 @@
 My name is Tri,
 Frontend developer working with Vue.js
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=trikarai&layout=compact)](https://github.com/trikarai/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trikarai)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=trikarai&layout=compact)](https://github.com/trikarai/github-readme-stats) -->
 
 <p><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=trikarai&show_icons=true" alt="trikarai" /></p>
 
